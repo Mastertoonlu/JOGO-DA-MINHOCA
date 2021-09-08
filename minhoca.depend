@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629039461 source:c:\users\usuário\desktop\projetos cdb\minhoca\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
